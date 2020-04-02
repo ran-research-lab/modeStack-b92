@@ -1,0 +1,7 @@
+*.*
+*
+!modeStack.cpp
+!modeStack.h
+!main.cpp
+!.gitignore
+!README.md
